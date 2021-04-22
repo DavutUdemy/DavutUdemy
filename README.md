@@ -53,5 +53,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about  Node Js
 - 📫 How to reach me: nailmemmedova12@gmail.com
 - 😄 Pronouns: ...D A V U D
-- ⚡ Fun fact: ... I am 14years old
 -->
